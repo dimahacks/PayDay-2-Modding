@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: yellow;
+}
+
+.i1i2i3 {
+    width: 256px;
+    height: 128px;
+}
+
+.i1i2i3i4 {
+    width: 128px;
+    height: 128px;
+}
+
+footer {
+    background-color: gray;
+}
+
